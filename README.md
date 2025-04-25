@@ -1,4 +1,4 @@
-# FastAPI EC2 Auto Scaling Demo 🚀
+# FastAPI EC2 Auto Scaling Setup 🚀
 
 This is a Dockerized FastAPI app with Nginx and Supervisor. It's built for EC2 Auto Scaling via Launch Template and ALB on AWS.
 
